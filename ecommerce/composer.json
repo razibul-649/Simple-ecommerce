@@ -1,0 +1,13 @@
+{
+  "name" : "ecommerce/ecommerce",
+  "type" : "project",
+  "description" : "Our Simple Ecommerce Project",
+  "keywords" : [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4" : {
+      "App\\": "app//"
+    }
+  }
+}
